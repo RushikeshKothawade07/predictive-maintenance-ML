@@ -12,7 +12,8 @@ You can view the deployed app here : https://predictive-maintenance-using-machin
 ## Google Colab Notebook
 Click [here](https://colab.research.google.com/drive/1QXPrLjqd07hcsgr3JxycuTREV998h4Yr?usp=sharing) to open the Google Colab notebook for this project.
 
-
+### Kaggle Dataset
+Click [here](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification) to view the dataset used in this project.
 
 ## Dataset Description
 
